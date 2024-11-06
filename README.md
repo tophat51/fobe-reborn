@@ -1,7 +1,2 @@
-# Fobe Website
-
-Official repo for everything related to the Fobe website.
-
-Everything commited to this project is for personal use.
-
-## ligma balls
+# Fobe: Reborn
+once i figure how to get this website to run, and figure out servers, this should work??
